@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Friends</string>
+    <string name="my_friends">My Friends</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama">Nama</string>
+</resources>
